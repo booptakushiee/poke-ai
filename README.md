@@ -1,6 +1,6 @@
 Engineering Journal
 
-Artifact for the 2nd week of Training
+Artifact for Week 2 - Day 1
 
 Date: 2/9/2026
 
