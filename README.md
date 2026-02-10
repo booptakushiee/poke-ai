@@ -33,6 +33,11 @@ Morning Stand-Up:
 What did I do yesterday?
 - Orientation with Sir Rame, Introduced how are we going to create an AI/LLM chatbot, and helped us by breaking down steps of coding on how to create a website for it.
 What will I do today?
-- AI Chatbot website
+- First, make out a concept for the AI Chatbot website, then integrate the code based on the concept made in Figma
 What are my blockers?
-- Fought through some errors in coding (which will require some debugging)
+- Encountered some errors in integrating the code
+
+<img width="2048" height="952" alt="image" src="https://github.com/user-attachments/assets/c18f0033-5e62-4ad4-aef8-27a09827a29d" />
+
+Explanation: Current progression of the chatbot website, yet i faced some errors trying to execute exactly what i drew up on the concept of the chatbot website.
+
