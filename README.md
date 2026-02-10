@@ -1,6 +1,14 @@
 Engineering Journal
 Artifact for the 2nd week of Training
 Date: 2/9/2026
+Morning Stand-Up:
+What did I do yesterday?
+- Orientation with Sir Rame, Introduced how are we going to create an AI/LLM chatbot, and helped us by breaking down steps of coding on how to create a website for it.
+What will I do today?
+- Continue with the process of making the website for the LLM chatbot
+What are my blockers?
+- Possibly may face some errors in coding (which will require some debugging)
+
 
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 
