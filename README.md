@@ -1,7 +1,11 @@
 Engineering Journal
+
 Artifact for the 2nd week of Training
+
 Date: 2/9/2026
+
 Morning Stand-Up:
+
 What did I do yesterday?
 - Orientation with Sir Rame, Introduced how are we going to create an AI/LLM chatbot, and helped us by breaking down steps of coding on how to create a website for it.
 What will I do today?
