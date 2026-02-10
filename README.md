@@ -20,3 +20,19 @@ End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 <img width="1596" height="819" alt="image" src="https://github.com/user-attachments/assets/f8d44c17-c0af-4b8e-bc25-35262a15be7b" />
 
 Explanation: Creating a site for a PersonaAI chatbot, currently a work in progress and some testings to do.
+
+
+Engineering Journal
+
+Artifact for Week 2 - Day 2
+
+Date: 2/10/2026
+
+Morning Stand-Up:
+
+What did I do yesterday?
+- Orientation with Sir Rame, Introduced how are we going to create an AI/LLM chatbot, and helped us by breaking down steps of coding on how to create a website for it.
+What will I do today?
+- AI Chatbot website
+What are my blockers?
+- Fought through some errors in coding (which will require some debugging)
