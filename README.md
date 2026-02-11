@@ -56,3 +56,7 @@ What will I do today?
 What are my blockers?
 - Potential errors in coding based on some support from Google AI studio on code integration for the UI page of the site
 
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/3710ef0f-aed3-4fb8-93e1-babd7af0999d" />
+
+Explanation: Finished UI of the chatbot website + integrated/connected with Gemini AI, and deployed via Netlify.
