@@ -39,5 +39,20 @@ What are my blockers?
 
 <img width="2048" height="952" alt="image" src="https://github.com/user-attachments/assets/c18f0033-5e62-4ad4-aef8-27a09827a29d" />
 
-Explanation: Current progression of the chatbot website, yet i faced some errors trying to execute exactly what i drew up on the concept of the chatbot website.
+Explanation: Current progression of the chatbot website, made a simple UI for the site, yet i faced some errors trying to execute exactly what i drew up on the concept of the chatbot website.
+
+
+
+Artifact for Week 2 - Day 3
+
+Date: 2/11/2026
+
+Morning Stand-Up:
+
+What did I do yesterday?
+- Made a simple UI/front-end development of the AI Chatbot website
+What will I do today?
+- Continue and carry on to making the website
+What are my blockers?
+- Potential errors in coding based on some support from Google AI studio on code integration for the UI page of the site
 
