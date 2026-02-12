@@ -90,3 +90,13 @@ What will I do today?
 
 What are my blockers?
 - None
+<br/>
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/0a0b887a-7975-4554-961b-2f2f8fe62079" />
+<img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/253eda1e-7ddc-45c9-b119-a6cfeb4d5f5a" />
+<img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/6f61750c-83e3-45d6-82ac-a5751b851e2a" />
+<img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/1f18c837-4512-4534-9c7e-4978cb412e1e" />
+
+
+Explanation: Finished product of the AI chatbot website. (added back button at the Chats section).
