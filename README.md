@@ -84,7 +84,9 @@ Morning Stand-Up:
 
 What did I do yesterday?
 - Incorporated Gemini AI into my AI/LLM chatbot website. Afterwards, i deployed it via Netlify
+
 What will I do today?
 - Potentially some continuation and improvements needed
+
 What are my blockers?
 - None
