@@ -20,7 +20,8 @@ End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 <img width="1596" height="819" alt="image" src="https://github.com/user-attachments/assets/f8d44c17-c0af-4b8e-bc25-35262a15be7b" />
 
 Explanation: Creating a site for a PersonaAI chatbot, currently a work in progress and some testings to do.
-
+<br/>
+<br/>
 
 Engineering Journal
 
@@ -42,6 +43,7 @@ What are my blockers?
 <img width="2048" height="952" alt="image" src="https://github.com/user-attachments/assets/c18f0033-5e62-4ad4-aef8-27a09827a29d" />
 
 Explanation: Current progression of the chatbot website, made a simple UI for the site, yet i faced some errors trying to execute exactly what i drew up on the concept of the chatbot website.
+<br/>
 <br/>
 <br/>
 
@@ -68,6 +70,9 @@ End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 <img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/1cda3b47-8d1b-4c02-ae6e-a05c325849ae" />
 
 Explanation: Finished UI of the chatbot website + integrated/connected with Gemini AI, and deployed via Netlify.
+<br/>
+<br/>
+<br/>
 
 
 
@@ -83,5 +88,3 @@ What will I do today?
 - Potentially some continuation and improvements needed
 What are my blockers?
 - None
-
-Explanation: Finished UI of the chatbot website + integrated/connected with Gemini AI, and deployed via Netlify.
