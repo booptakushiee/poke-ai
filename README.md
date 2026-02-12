@@ -56,7 +56,20 @@ What will I do today?
 What are my blockers?
 - Potential errors in coding based on some support from Google AI studio on code integration for the UI page of the site
 
-End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
-<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/3710ef0f-aed3-4fb8-93e1-babd7af0999d" />
+
+
+
+Artifact for Week 2 - Day 4
+
+Date: 2/12/2026
+
+Morning Stand-Up:
+
+What did I do yesterday?
+- Incorporated Gemini AI into my AI/LLM chatbot website. Afterwards, i deployed it via Netlify
+What will I do today?
+- Potentially some continuation and improvements needed
+What are my blockers?
+- None
 
 Explanation: Finished UI of the chatbot website + integrated/connected with Gemini AI, and deployed via Netlify.
