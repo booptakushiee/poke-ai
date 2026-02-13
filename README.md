@@ -100,3 +100,21 @@ End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 
 
 Explanation: Finished product of the AI chatbot website. (added back button at the Chats section).
+<br/>
+<br/>
+
+
+Artifact for Week 2 - Day 5 (Final)
+
+Date: 2/13/2026
+
+Morning Stand-Up:
+
+What did I do yesterday?
+- Finished and deployed the AI chatbot website
+
+What will I do today?
+- Presentation of what is the main goal and purpose of the website
+
+What are my blockers?
+- Might encounter some biases and judgements based on my work
