@@ -118,3 +118,9 @@ What will I do today?
 
 What are my blockers?
 - Might encounter some biases and judgements based on my work
+
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/e34c1e27-71a5-4c4b-9c99-a2364566b79e" />
+
+Explanation: Canva presentation for the AI chatbot website.
